@@ -6,11 +6,19 @@ This repository contains a Python implementation of Cellular Automata, a mathema
 
 ## Features
 
-- **Visualization**: Display the evolution of cellular automata over time.
-- **Game of Life**: The classic game _Conaways Game of Life_
-- **Sand Sim**: A sim of falling sand, I know, very interesting
-- **Easily Copyable Framework**: All the basic frameworks for cellulat Automata are present and can be adapted
+- **Visualization**: Display the evolution of cellular automata over time.<br>
 
+
+- **UI for Selection**: Its in the name.<br><br>![Screenshot 2025-04-27 7 42 47 AM](https://github.com/user-attachments/assets/7bfc7963-8937-460d-bbd4-c00b9484d15c)
+
+
+- **Game of Life**: The classic game _Conaways Game of Life_.<br><br>![Screenshot 2025-04-27 7 44 09 AM](https://github.com/user-attachments/assets/7c33ac3c-9869-4818-b7a1-62cbb9e3b8b7)
+
+
+- **Sand Sim**: A sim of falling sand, I know, very interesting.<br><br>![Screenshot 2025-04-27 7 43 16 AM](https://github.com/user-attachments/assets/735a10b1-573f-44e9-9078-ec5a031ca208)
+
+
+- **Easily Copyable Framework**: All the basic frameworks for cellulat Automata are present and can be adapted.<br><br>![Screenshot 2025-04-27 10 39 35 AM](https://github.com/user-attachments/assets/3cb0d8ef-db73-4ef3-b19d-31fb719d8b80)
 ## Getting Started
 
 ### Prerequisites
